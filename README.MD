@@ -35,6 +35,10 @@ cd DNS-Lookup-Tool-with-Digital-Key-System/
 
 # Make all script Executable 
 chmod +x * 
+
+# To execute 
+./dns_tool.sh --domain example.com
+
 ```
 
 ## 📞 Need Help?
