@@ -37,13 +37,14 @@ cd DNS-Lookup-Tool-with-Digital-Key-System/
 chmod +x * 
 ```
 
-```
 ## 🚨 Troubleshooting Common Issues
+```
 # On Ubuntu/Debian
 sudo apt install dnsutils
 
 # Verify
 which dig
 dig google.com +short
+```
 
 
