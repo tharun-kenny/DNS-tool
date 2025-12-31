@@ -44,6 +44,7 @@ sudo yum install bind-utils openssl whois
 
 ```python 
 # git clone 
+```
 
 ## 📋 Prerequisites
 ```bash
