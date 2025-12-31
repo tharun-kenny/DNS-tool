@@ -38,6 +38,7 @@ bash --version
 # chmod +x setup.sh
 # ./setup.sh
 
+
 ## 📋 Prerequisites
 
 ```bash
