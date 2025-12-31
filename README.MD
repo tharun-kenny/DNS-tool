@@ -56,7 +56,7 @@ bash -x dns_tool.sh -d test.com 2>&1 | tee debug.log
 ```
 
 ## 🚨 Troubleshooting Common Issues
-```
+```bash 
 # On Ubuntu/Debian
 sudo apt install dnsutils
 
