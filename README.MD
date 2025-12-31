@@ -36,11 +36,14 @@ cd DNS-Lookup-Tool-with-Digital-Key-System/
 # Make all script Executable 
 chmod +x * 
 ```
+
 ## 📞 Need Help?
-```
-# run Self-diagnostic
-./dns_tool.sh --help
+
+```bash
+# Run Self-Diagnostic
+./dns_tool.sh --help 
 ./key_manager.sh --help
+
 ```
 
 ## 🚨 Troubleshooting Common Issues
