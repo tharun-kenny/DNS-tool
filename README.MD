@@ -26,8 +26,8 @@ A secure DNS auditing tool with enterprise-grade key management and access contr
 - Failed attempt monitoring
 - JSON export capabilities
 
-### 📋 Prerequisites
-
+## 📋 Prerequisites
+```bash
 # Required tools
 dig      # DNS lookup utility
 openssl  # Encryption
