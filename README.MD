@@ -41,7 +41,6 @@ bash --version
 
 ## 📋 Prerequisites
 
-```bash
 # Required tools
 dig      # DNS lookup utility
 openssl  # Encryption
